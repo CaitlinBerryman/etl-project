@@ -1,5 +1,5 @@
 # ETL project
 
-Proposal: Combine historic data of a country's reserve gold and the price per ounce at the corresponding month, potentially also factoring for inflation.
+Proposal: Combine the results of the 2020 US presidential election with COVID-19 statistics, broken down by state.
 
-Data sources include the IMF and Kaggle.
+Data sources include Wikipedia and Kaggle.
